@@ -5,7 +5,7 @@ This repository showcases a selection of projects designed for teaching Machine 
 ### **Overview:**
 
 - **README.md:**   Provides an overview of the repository and instructions on how to navigate the files and directories.
-- **SpaceX_Cleaning.ipynb:** A Jupyter notebook that contains data cleaning and preprocessing steps for a SpaceX dataset, focusing on preparing the data for further analysis and modeling. The SpaceX dataset features parameter that might prove necessarily for predicting successful or unsuccessful landing for SPace X  rockets.
+- **SpaceXData_Preprocessing.ipynb:** A Jupyter notebook that contains data cleaning and preprocessing steps for a SpaceX dataset, focusing on preparing the data for further analysis and modeling. The SpaceX dataset features parameter that might prove necessarily for predicting successful or unsuccessful landing for SPace X  rockets.
 
 ### **How to Use:**
 Clone the repository to your local machine.

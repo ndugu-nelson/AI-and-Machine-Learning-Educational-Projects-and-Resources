@@ -1,5 +1,5 @@
 # **Professional Certification Projects**
-Overview: This repository contains a collection of projects completed as part of various professional certifications. These projects are essential for mastering or enhancing skills in data analysis, machine learning, and other data science-related tasks.
+This repository contains a collection of projects completed as part of various professional certifications. These projects are essential for mastering or enhancing skills in data analysis, machine learning, and other data science-related tasks.
 
 
 ### **Overview:**

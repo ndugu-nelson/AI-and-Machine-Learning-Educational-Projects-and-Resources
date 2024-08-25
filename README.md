@@ -1,5 +1,5 @@
-# **Professional Certification Projects**
-This repository contains a collection of projects completed as part of various professional certifications. These projects are essential for mastering or enhancing skills in data analysis, machine learning, and other data science-related tasks.
+# **Machine Learning Projects**
+This repository showcases a selection of projects designed for teaching Machine Learning through a product-based approach. Each project emphasizes hands-on learning by tackling real-life scenarios, which is integral to mastering data analysis, machine learning, and other data science skills. These projects are crafted to enhance practical knowledge and build expertise in the field.
 
 
 ### **Overview:**
